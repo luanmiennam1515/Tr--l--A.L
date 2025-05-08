@@ -97,241 +97,108 @@ Số nhà: 28/11
 Thành phố: Thuận An
 Tỉnh: Bình Dương
 
-Tên Nhà Phân Phối
-SĐT
-Địa Chỉ
-Sản Phẩm Phân Phối
-Ngành Nghề
-Nhà Phân Phối Công Ty Hoàng Gia - E Tài
-0983.083.334
-TP Đà Nẵng
-Phụ tùng máy cày, máy gặt
-Phụ tùng nông nghiệp
-Nhà Phân Phối KIA - Quốc Tuấn
-0918.047.087
-162 Huỳnh Mẫn Đạt, Quận 5, TP.HCM
-Phụ tùng HYUNDAI, KIA
-Phụ tùng động cơ
-Nhà Phân Phối Cty Vạn Phát Hưng
-0918.649.554
-003 Lô B, Đặng Thái Thân, P11, Quận 5, TP.HCM
-Phụ tùng HYUNDAI, MOPIS
-Phụ tùng động cơ
-Nhà Phân Phối HYUNDAI Lâm Trí
-0901.430.707
-315 QL51, Khu P.1, Long Bình Tân, Biên Hòa, ĐN
-Phụ tùng HYUNDAI, MOPIS chính hãng
-Phụ tùng động cơ
-Nhà Phân Phối Cty Hải Lâm
-0901.252.347
-Dĩ An, Bình Dương
-Bơm nước, nhông, cảm biến, tay trang, cốc lọc...
-Phụ tùng cơ giới
-Nhà Phân Phối PT Quang Vinh Kamaz
-0908.328.278
-273 Điện Biên Phủ, TP Hồ Chí Minh
-Phụ tùng Kamaz
-Phụ tùng động cơ
-Nhà Phân Phối Thịnh Phát Lộc (Chị Bé)
--
-TP Hồ Chí Minh
-Turbo, củ đề, máy phát, trục cơ, trục cam
-Phụ tùng động cơ
-Nhà Phân Phối PT Xe Nâng Kim Ngưu
--
-Thuận An, Bình Dương
-Chuyên phụ tùng xe nâng
-Phụ tùng xe nâng
-Nhà Phân Phối Phụ Tùng Nissan
-0938.208.520
-TP Hồ Chí Minh
-Phụ tùng Nissan chính hãng
-Phụ tùng Nissan chính hãng
-Nhà Phân Phối Đối tác hàng bãi: Phước Vĩnh
-0976.497.070
-Hàng bãi
-Phụ tùng Kamaz
-Phụ tùng hàng bãi động cơ
-Nhà Phân Phối Đối tác Tuấn Sinh Hàn
-090 800 03 32
-Quận 5, TP Hồ Chí Minh
-Phân phối nắp + ruột sinh hàn các loại
-Phụ tùng động cơ
-Nhà Phân Phối Cty Thịnh Việt
-0903 999 821
-(Chú Thành)
-Chuyên Deutz, séc măng KS
-Phụ tùng động cơ
-Nhà Phân Phối Cty Kim Cương
-0968 162 100
-320 Đ. An D. Vương, TP Hồ Chí Minh
-Kia, Hyundai, Isuzu, Hino...
-Phụ tùng ô tô
-Nhà Phân Phối CTY Đắc Yến - Phương
-090 135 76 98
-Thạnh Xuân, Quận 12, TP Hồ Chí Minh
-Phụ tùng xe Toyota với Mitsubishi, nhập két nước cho Phúc Tiệp
-Phụ tùng ô tô
-Nhà Phân Phối Doosan Ngọc Thảo
--
--
-Doosan chính hãng
-Phụ tùng động cơ
-Nhà Phân Phối Đối tác Thế Phạm "CAT"
-0969328379
--
-Chuyên phụ tùng CAT
-Phụ tùng động cơ
-Nhà Phân Phối Cty Nhông VMI
-0908700895
--
-Nhông đùi, mới, bãi
-Phụ tùng cơ giới
-Nhà Phân Phối Bạc Đạn Thảo Nguyên
--
-Quận 12
-Phân phối bạc đạn chính hãng
-Phụ tùng cơ giới / Ô tô
-Nhà Phân Phối Lâm Người Hoa
-0912.881.156
-Hàng Xanh
-Cánh quạt, bơm nước, nắp sinh hàn, ổ khóa...
-Phụ tùng cơ giới / Ô tô
-Nhà Phân Phối Cty ABG (Hoãn)
-0787112888
-Dĩ An, Bình Dương
-Bơm nước, nhông, bơm loại nhỏ, bơm thủy lực
-Phụ tùng cơ giới
-Nhà Phân Phối Sin Phốt A Bá - SÀI GÒN
-0907030641
-Hàng Xanh
-Hàng chính hãng - giá cao SKF/NOK
-Phụ tùng cơ giới
-Nhà Phân Phối Sin Phốt, Phúc An
--
-Ngã 4 Bình Phước
-Bán lẻ
-Phụ tùng cơ giới
-Nhà Phân Phối Sin Phốt Hoàng Vũ - SÀI GÒN
--
-Quận 5, TP Hồ Chí Minh
--
-Phụ tùng sin phớt
-Nhà Phân Phối Tùng Hợp Long
-0977120611
-TP Hồ Chí Minh
-Turbo, Hàng KS, Deuzt, Ấn Độ
-Phụ tùng động cơ
-Nhà Phân Phối CTY BÌNH MINH
-0989881666
-Dĩ An, Bình Dương
-Chuyên màn hình máy công trình, bơm nhớt, két nước
-Phụ tùng động cơ
-Nhà Phân Phối Bơm Béc Dầu Đồng Chí
-0909.482.920
--
-Kim phun
-Phụ tùng HEO BÉC
-Nhà Phân Phối Cty ACB / Em Phương
-0962.503.266
-Bình Tân, TP Hồ Chí Minh
-Két nước dàn nóng VVO, Thước lái Akydo Japan...
-Phụ tùng ô tô
-Nhà Phân Phối Phụ Tùng Ô Tô An Sương
-0903.492.924
-An Sương - Sài Gòn
-Chuyên xe Nga chính hãng
-Phụ tùng ô tô
-Nhà Phân Phối Phụ Tùng Máy Công Trình Minh Châu
-0345.768.396
-Biên Hòa - Đồng Nai
-Phân phối chính hãng về tất cả phụ tùng xe xúc lật, lu ủi, lốp
-Phụ tùng máy đào Trung Quốc
-Nhà Phân Phối Đối tác Hà Nội Điện Phú Quý
--
-Hà Nội
-Hộp đen, book các loại
-Phụ tùng cơ giới / Ô tô
-Nhà Phân Phối Đối Tác Cty Xuân Thủy - Hà Nội
--
--
-Nắp máy, trục cơ … thế mạnh
-Phụ tùng động cơ
-Nhà Phân Phối Cty 179 (Phụ Kiện Cabin)
--
--
-Phụ kiện cabin máy công trình
-Phụ tùng cơ giới
-Nhà Phân Phối Đối tác Cty BTS, TPSUZU
--
-Gần kho Cty Phú Toàn, Hà Nội
-Các mặt hàng phụ tùng động cơ giống TNC
-Phụ tùng động cơ
-Nhà Phân Phối DINAMO (Bãi) Lâm Cương
-0906.666.751
-TP Hồ Chí Minh
-Chuyên DINAMO bãi các loại
-Phụ tùng hàng bãi động cơ
-Nhà Phân Phối Bơm Béc Dầu Phong Tâm
-0934.198.127
-52/12B QL1A, P Tân Thới Nhất - Quận 12
-Bơm béc kim cơ, bơm béc điện tử, kiểm tra xóa lỗi
-Phụ tùng HEO BÉC
-Nhà Phân Phối Phụ Tùng Xe Trung Quốc "Việt Đông Phong"
-0979.685.006
-37/8C Hai Bà Trưng, TP Dĩ An, Tỉnh Bình Dương
-Cummins, Yuchai, Weichai...
-Phụ tùng ô tô Trung Quốc
-Nhà Phân Phối Ghế Xe Nâng Hải Âu
-0909.138.196
-Bình Dương
-Các loại ghế xe nâng
-Phụ tùng xe nâng
-Nhà Phân Phối Công Ty Hoàng Gia Lâm EM GẤM
-0937.757.255
-Thuận An, Bình Dương
-Phụ tùng xe nâng Linde
-Phụ tùng xe nâng
-Nhà Phân Phối Phụ Tùng Ford, KIA Du Lịch
-0944.500.632
-TP Hồ Chí Minh
-Két nước, két nhớt… đã lấy hàng giá ok
-Phụ tùng Ford
-Nhà Phân Phối Quân Phụ Tùng - SÀI GÒN
--
-Quận 12
-Chuyên Ford
-Phụ tùng Ford
-Nhà Phân Phối CAT Thế Phạm
-0969328379
--
-Chuyên động cơ CAT
-Phụ tùng động cơ
-Nhà Phân Phối Hàng Bãi Chú Duẩn
-0903925524
-Quốc lộ 13
-Chuyên hàng bãi
-Phụ tùng hàng bãi động cơ
-Nhà Phân Phối Hàng Bãi A Hiến
-0909442937
-Dĩ An, Bình Dương
-Chuyên hàng bãi
-Phụ tùng hàng bãi động cơ
-Nhà Phân Phối Anh Vinh - An Sương
-0907255116
-158 Đông Hưng Thuận 42, p.Tân Hưng Thuận, Quận 12
-Chuyên hàng bãi
-Phụ tùng hàng bãi động cơ
-Nhà Phân Phối Chú Quang Xa Lộ Hà Nội
-0913323167
-Xa Lộ Hà Nội, Suối Tiên, Thủ Đức
-Chuyên động cơ bãi "nguyên con"
-Phụ tùng hàng bãi động cơ
-Nhà Phân Phối A Cường - Bến Lức
-0903123878
-Bến Lức, Long An
-Chuyên động phụ tùng cơ bãi
-Phụ tùng hàng bãi động cơ
+🔧 DANH SÁCH ĐỐI TÁC PHỤ TÙNG ĐỘNG CƠ
+KIA - Quốc Tuấn (Q5) – 0918.047.087
+ 📍162 Huỳnh Mẫn Đạt, TP.HCM
+ 🔹 Chuyên: Phụ tùng Hyundai, KIA
+
+
+CTY Vạn Phát Hưng – 0918.649.554
+ 📍003 Lô B, Đặng Thái Thân, P.11, Q5, TP.HCM
+ 🔹 Chuyên: Phụ tùng Hyundai, MOPIS
+
+
+Hyundai Lâm Trí – 0901.430.707
+ 📍315 QL51, Long Bình Tân, Biên Hòa, Đồng Nai
+ 🔹 MOPIS chính hãng
+
+
+PT Quang Vinh Kamaz – 0908.328.278
+ 📍273 Điện Biên Phủ, TP.HCM
+ 🔹 Chuyên: Phụ tùng Kamaz
+
+
+Thịnh Phát Lộc (chị Bé)
+ 📍TP.HCM
+ 🔹 Turbo (SL), củ đề, máy phát, trục cơ, trục cam
+
+
+Tuấn Sinh Hàn – 0908.000.332
+ 📍Quận 5, TP.HCM
+ 🔹 Nắp + ruột sinh hàn các loại
+
+
+CTY Thịnh Việt (chú Thành) – 0903.999.821
+ 🔹 Chuyên: Deutz, séc măng KS
+
+
+Ngọc Thảo
+ 🔹 Phân phối phụ tùng Doosan chính hãng
+
+
+Thế Phạm CAT – 0969.328.379
+ 🔹 Chuyên: Phụ tùng CAT
+
+
+Tùng Hợp Long – 0977.120.611
+ 📍TP.HCM
+ 🔹 Turbo, hàng KS, Deutz, Ấn Độ
+
+
+CTY Bình Minh – 0989.881.666
+ 📍Dĩ An, Bình Dương
+ 🔹 Màn hình máy công trình, bơm nhớt, két nước/nhớt/gió
+
+
+Xuân Thủy (Hà Nội)
+ 🔹 Nắp máy, trục cơ (thế mạnh)
+
+
+CTY BTS – TPSUZU (Hà Nội)
+ 📍Gần kho CTY Phú Toàn
+ 🔹 Phụ tùng động cơ như TNC
+
+
+A Đông (Chợ Dời)
+ 🔹 Hàng NICE, KUYU, Turbo SL, MAGURO
+
+
+Thành Deutz Parts – 0925.808.441
+ 📍Thủ Đức, TP.HCM
+ 🔹 Deutz chính hãng
+
+
+TP Suzu (Hà Nội)
+ 🔹 Hoạt động như TNC
+
+
+Phú Vinh (Q5) – 028.3854.7308
+ 📍40 Lương Nhữ Học, Q5
+ 🔹 Phụ tùng động cơ
+
+
+Đại Trung Trí – 028.3839.8402
+ 📍431 An Dương Vương, P3, Q5
+ 🔹 Taiho, NPR, Izumi
+
+
+CTY Thái Bình Dương
+ 📍Vòng xoay An Lạc, TP.HCM
+ 🔹 IZUMI, NPR, PACIFIC, CGP, WTA
+
+
+CTY Thành Phát Hưng
+ 📍Vòng xoay An Lạc, TP.HCM
+ 🔹 IZUMI, TP, NDC, Tonyco, WTA
+
+
+Ch Huy Mai – 0906.222.038
+ 📍Quận 5
+ 🔹 Phụ tùng động cơ
+
+
+
+
 
 
 
