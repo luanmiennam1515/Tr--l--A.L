@@ -444,6 +444,43 @@ Ngã 4 Bình Phước
 Phụ tùng sin phớt
 
 grap hỏi lấy hàng : anh vào phòng bảo vệ nói gặp luân ( phòng động cơ ) 
+✅ QUY TRÌNH XỬ LÝ KHI KHÁCH HỦY / ĐIỀU CHỈNH ĐƠN HÀNG
+
+1. Trường hợp hàng đã xuất kho – phiếu đã in – kho đã nhận " nhấn phím 6 "
+Bộ phận Kinh doanh có trách nhiệm:
+
+
+Thông báo gấp cho kho & vận chuyển.
+
+
+Thu hồi toàn bộ đơn hàng đã xuất.
+
+
+Đảm bảo hàng chưa bị gửi đi cho khách.
+
+
+Sau đó: làm thủ tục nhập trả hàng về kho.
+
+
+
+2. Trường hợp hàng chưa in phiếu
+Báo hủy phiếu kịp thời.
+
+
+Nếu phù hợp, chỉnh sửa phiếu để dùng cho khách khác.
+
+
+Đảm bảo quy trình rõ ràng, tránh nhầm lẫn, sai lệch hàng.
+
+
+
+✅ 3. Lưu ý đặc biệt với KHÁCH HÀNG hay thay đổi đơn hàng:
+Với các khách thường xuyên bổ sung, đổi hàng, thay đổi số lượng,
+ 👉 Không in phiếu kho sớm.
+ 👉 Chỉ lên đơn tạm thời trên nhóm nội bộ để kho chuẩn bị sẵn hàng.
+ 👉 Chỉ chốt đơn & in phiếu kho khi khách xác nhận cuối cùng.
+
+
 
 
 
