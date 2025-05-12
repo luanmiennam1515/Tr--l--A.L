@@ -22,7 +22,7 @@ Turbo bị xì nhớt là dấu hiệu hư hỏng nghiêm trọng, làm giảm c
 �� Turbo lắp không đúng kỹ thuật hoặc sử dụng hàng kém chất lượng dễ bị rò rỉ dầu ngay sau khi lắp.
 khi anh gõ phím 2 hãy hiển thị BẢO HÀNH TURBO
 HỖ TRỢ KHI GẶP SỰ CỐ TRONG THỜI GIAN BẢO HÀNH��
-�� Nếu turbo gặp sự cố kỹ thuật ( dù do chủ quan hay khách quan ),anh chị được hỗ trợ 3 lựa chọn sau:
+�� Nếu turbo gặp sự cố kỹ thuật trong thời gian 3 tháng kể từ ngày mua hàng ( dù do chủ quan hay khách quan ),anh chị được hỗ trợ 3 lựa chọn sau:
 �� �� Tặng ngay 1 bộ ruột  turbo mới 
 �� �� Sửa chữa turbo hoàn toàn miễn phí 
 �� �� Giảm ngay 50% khi mua turbo mới
@@ -37,7 +37,8 @@ BẢO HÀNH TRỤC CƠ THÉP ĐÚC
 �� BẢO HÀNH: **06 tháng (*Áp dụng với trường hợp trục , ngoại trừ nguyên nhân bó máy )
 Cam kết chất lượng – Động cơ vận hành mạnh mẽ & ổn định!��
 �� LUÂN NGUYỄN – Chất lượng tạo nên uy tín! ��
-BẢO HÀNH – TRỤC CƠ  - THÉP DẬP ( THÉP RÈN )
+
+BẢO HÀNHTRỤC CƠTHÉP DẬP ( THÉP RÈN )
 �� TRỤC CƠ – CÔNG NGHỆ  THÉP DẬP, CHẤT LƯỢ NG HÀNG ĐẦU ��
 �� Sản phẩm sản xuất thép công nghệ cao 
 ⚙Gia công chính xác 
@@ -88,7 +89,7 @@ MÃ SỐ THUẾ :CÔNG TY TNHH XUẤT NHẬP KHẨU CƠ GIỚI MIỀN NAM
  Người đại diện	VŨ VĂN THỂ
 
 
- MÃ SỐ THUẾ CÔNG TY CỔ PHẦN CƠ GIỚI MIỀN NAM
+ MÃ SỐ THUẾ Cty CƠ GIỚI MIỀN NAM
  Tên quốc tế	SOUTHERN MECHANICAL JOINT STOCK COMPANY
  Mã số thuế	0313044100
  Địa chỉ	4/4/1/10 Đường Số 3, Khu phố 5, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam
@@ -508,6 +509,51 @@ NVKD phải:
 Ghi rõ chi phí trả hàng trong báo cáo
 Trường hợp đặc biệt:
  NVKD đề xuất hướng xử lý với cấp quản lý nếu phát sinh tình huống ngoài quy định.
+
+MUA HÀNG TỪ NHÀ CUNG CẤP
+Nhà cung cấp: Thái Bình Dương
+ Mặt hàng cần mua:
+Piston
+
+Xy lanh
+
+Séc măng
+nhờ anh điều hàng về giúp em theo danh sách trên.
+ Xin cảm ơn anh!
+CẬU LỆNH TRỢ LÝ NHẤN PHÍM 9 ĐỂ HIỂN THỊ  
+MUA HÀNG TỪ NHÀ CUNG CẤP
+Gọi lệnh để tạo mẫu đề nghị mua hàng.
+
+🔁 2. QUY ĐỊNH NHẬN HÀNG TRẢ LẠI – ĐỒ HƠI
+Mẫu xử lý hàng hoàn trả, báo kho và chi phí.
+
+🧾 3. QUY TRÌNH XỬ LÝ KHI KHÁCH HỦY / ĐIỀU CHỈNH ĐƠN HÀNG
+Hướng dẫn xử lý hàng đã in phiếu, chưa in phiếu, khách thay đổi.
+
+📍 4. ĐỊA CHỈ NHÀ ĐANG Ở
+Gọi lệnh để hiện địa chỉ cá nhân lưu sẵn.
+
+🔧 5. PHỤ TRÁCH PHỤ TÙNG GẦM
+Dùng để hiển thị người phụ trách mảng phụ tùng gầm xe.
+
+🔐 Phím 5:
+Hiển thị thông tin tài khoản Nguyễn Văn Luân, khu vực miền Nam.
+
+🛠 6. BẢO HÀNH TRỤC CƠ THÉP ĐÚC
+Gọi để xem quy trình và điều kiện bảo hành trục cơ.
+
+💨 7. NGUYÊN NHÂN TURBO BỊ XÌ NHỚT
+Hiển thị nguyên nhân phổ biến gây lỗi turbo.
+
+🔧 Phím 2:
+Hiển thị BẢO HÀNH TURBO
+
+🔩 8. BẢO HÀNH NẮP QUY LÁT
+Điều kiện bảo hành, kiểm tra và cách xử lý.
+
+🤝 9. DANH SÁCH ĐỐI TÁC PHỤ TÙNG ĐỘNG CƠ
+Hiển thị danh sách nhà cung cấp hoặc đối tác động cơ đang hợp tác.
+
 
 
 
