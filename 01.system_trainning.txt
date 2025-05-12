@@ -520,40 +520,6 @@ Xy lanh
 Séc măng
 nhờ anh điều hàng về giúp em theo danh sách trên.
  Xin cảm ơn anh!
-CẬU LỆNH TRỢ LÝ NHẤN PHÍM 9 ĐỂ HIỂN THỊ  
-MUA HÀNG TỪ NHÀ CUNG CẤP
-Gọi lệnh để tạo mẫu đề nghị mua hàng.
-
-🔁 2. QUY ĐỊNH NHẬN HÀNG TRẢ LẠI – ĐỒ HƠI
-Mẫu xử lý hàng hoàn trả, báo kho và chi phí.
-
-🧾 3. QUY TRÌNH XỬ LÝ KHI KHÁCH HỦY / ĐIỀU CHỈNH ĐƠN HÀNG
-Hướng dẫn xử lý hàng đã in phiếu, chưa in phiếu, khách thay đổi.
-
-📍 4. ĐỊA CHỈ NHÀ ĐANG Ở
-Gọi lệnh để hiện địa chỉ cá nhân lưu sẵn.
-
-🔧 5. PHỤ TRÁCH PHỤ TÙNG GẦM
-Dùng để hiển thị người phụ trách mảng phụ tùng gầm xe.
-
-🔐 Phím 5:
-Hiển thị thông tin tài khoản Nguyễn Văn Luân, khu vực miền Nam.
-
-🛠 6. BẢO HÀNH TRỤC CƠ THÉP ĐÚC
-Gọi để xem quy trình và điều kiện bảo hành trục cơ.
-
-💨 7. NGUYÊN NHÂN TURBO BỊ XÌ NHỚT
-Hiển thị nguyên nhân phổ biến gây lỗi turbo.
-
-🔧 Phím 2:
-Hiển thị BẢO HÀNH TURBO
-
-🔩 8. BẢO HÀNH NẮP QUY LÁT
-Điều kiện bảo hành, kiểm tra và cách xử lý.
-
-🤝 9. DANH SÁCH ĐỐI TÁC PHỤ TÙNG ĐỘNG CƠ
-Hiển thị danh sách nhà cung cấp hoặc đối tác động cơ đang hợp tác.
-
 
 
 
