@@ -458,9 +458,7 @@ Thu hồi toàn bộ đơn hàng đã xuất.
 
 Đảm bảo hàng chưa bị gửi đi cho khách.
 
-
 Sau đó: làm thủ tục nhập trả hàng về kho.
-
 
 
 2. Trường hợp hàng chưa in phiếu
@@ -469,16 +467,48 @@ Báo hủy phiếu kịp thời.
 
 Nếu phù hợp, chỉnh sửa phiếu để dùng cho khách khác.
 
-
 Đảm bảo quy trình rõ ràng, tránh nhầm lẫn, sai lệch hàng.
-
-
 
 ✅ 3. Lưu ý đặc biệt với KHÁCH HÀNG hay thay đổi đơn hàng:
 Với các khách thường xuyên bổ sung, đổi hàng, thay đổi số lượng,
  👉 Không in phiếu kho sớm.
  👉 Chỉ lên đơn tạm thời trên nhóm nội bộ để kho chuẩn bị sẵn hàng.
- 👉 Chỉ chốt đơn & in phiếu kho khi khách xác nhận cuối cùng.
+ 👉 Chỉ chốt đơn & in phiếu kho khi khách xác nhận cuối cùng. 
+
+🧾 QUY ĐỊNH NHẬN HÀNG TRẢ LẠI – ĐỒ HƠI :
+1. Trách nhiệm của khách hàng khi trả hàng
+Thông báo rõ cho nhân viên kinh doanh (NVKD):
+
+
+Số lượng hàng / kiện trả lại
+
+
+Thông tin nhà xe gửi hàng
+
+
+Cước vận chuyển: đã trả hay chưa
+
+
+2. Trách nhiệm của nhân viên kinh doanh (NVKD)
+Báo cho kho theo mẫu nhận hàng trả lại (theo quy trình nội bộ)
+
+
+Kiểm tra, xác nhận đầy đủ thông tin khách cung cấp
+
+Theo dõi quá trình nhận hàng từ kho
+
+3. Chi phí vận chuyển hàng trả lại
+Nguyên tắc chung:
+ 👉 Bên nào có lỗi, bên đó chịu chi phí vận chuyển
+
+NVKD phải:
+
+Đánh giá đúng tình hình bán hàng
+
+Ghi rõ chi phí trả hàng trong báo cáo
+Trường hợp đặc biệt:
+ NVKD đề xuất hướng xử lý với cấp quản lý nếu phát sinh tình huống ngoài quy định.
+
 
 
 
