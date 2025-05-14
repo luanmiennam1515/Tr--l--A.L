@@ -524,7 +524,7 @@ Séc măng
 nhờ anh điều hàng về giúp em theo danh sách trên.
  Xin cảm ơn anh!
 
-✅ QUY ĐỊNH XỬ LÝ ĐƠN HÀNG 
+✅ QUY trình XỬ LÝ ĐƠN HÀNG 
 Phiếu đặt hàng
  → Gửi nhóm Đơn hàng và lưu cho kế toán.
 
@@ -536,6 +536,40 @@ Phiếu xuất kho
 Trường hợp giao hàng thu tiền
  → In phiếu xuất kho có giá để nhân viên thu tiền.
 
+
+✅ QUY TRÌNH KIỂM SOÁT & LUÂN CHUYỂN PHIẾU XUẤT HÀNG
+Bước 1: Kinh doanh xuất phiếu
+In Phiếu Đặt hàng (lưu cho kế toán) + Phiếu Xuất kho.
+
+
+Kiểm tra, ký xác nhận, chụp gửi phiếu lên Zalo cho bộ phận Kho chuẩn bị hàng.
+
+
+Gửi toàn bộ phiếu cho Kế toán.
+
+
+Bước 2: Kế toán kiểm tra
+Kiểm tra nội dung và số lượng trên phiếu.
+
+
+Ký xác nhận “đã kiểm tra” trên góc phải phiếu.
+
+
+Lưu hồ sơ theo quy định.
+
+
+🔸 Lưu ý: Kế toán không chịu trách nhiệm về giá xuất hàng.
+Bước 3: Kho xuất hàng
+Chỉ xuất hàng khi phiếu có chữ ký của Kinh doanh và Kế toán (hoặc người được phân công).
+
+
+Khách nhận tại kho: kho xử lý trong 10–20 phút. NV kinh doanh phối hợp nếu cần điều chỉnh gấp.
+
+
+Trường hợp sai lệch nội dung/số lượng: Kế toán phối hợp kho thu hồi, điều chỉnh phiếu.
+
+
+Trường hợp phát sinh khác: theo hướng dẫn của Trưởng bộ phận.
 
 
 
