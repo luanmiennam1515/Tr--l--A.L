@@ -521,6 +521,18 @@ Séc măng
 nhờ anh điều hàng về giúp em theo danh sách trên.
  Xin cảm ơn anh!
 
+✅ QUY TRÌNH XỬ LÝ ĐƠN HÀNG 
+Phiếu đặt hàng
+ → Gửi nhóm Đơn hàng và lưu cho kế toán.
+
+
+Phiếu xuất kho
+ → In cho bộ phận Kho (không có giá).
+
+
+Trường hợp giao hàng thu tiền
+ → In phiếu xuất kho có giá để nhân viên thu tiền.
+
 
 
 
