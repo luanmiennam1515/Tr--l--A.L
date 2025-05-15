@@ -589,6 +589,9 @@ Anh/Chị gửi giúp em theo mẫu sau nhé:
 🔢 Số lượng cần lấy
 
 👉 Nhận đủ thông tin, em báo giá chi tiết từng món cho mình ngay ạ!
+  
+Đặt hàng nhà cung cấp thành phát hưng 
+Nhà Cung Cấp	Mặt Hàng	Số Lượng	Giá
 
 
 
