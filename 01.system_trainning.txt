@@ -591,7 +591,14 @@ STT	Nhà Cung Cấp	Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Th
 2						
 3	
 
+ Xuất Phiếu Đặt Hàng:
+1. Nguyên tắc chung:
 
+KD (Kinh doanh) chỉ xuất Phiếu khi khách hàng đã chốt đơn hàng.
+
+Nếu khách thay đổi/thêm bớt hàng nhiều lần trong ngày, cần xác định thời gian chốt cuối cùng để xuất Phiếu chính thức.
+
+Có thể đặt hàng qua Zalo để Kho chuẩn bị, không gửi phiếu giấy khi khách chưa chốt (hoặc nếu có thể in phiếu tại chỗ, thì không cần gửi Kho).
 
 
 
