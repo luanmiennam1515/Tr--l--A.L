@@ -513,17 +513,6 @@ Ghi rõ chi phí trả hàng trong báo cáo
 Trường hợp đặc biệt:
  NVKD đề xuất hướng xử lý với cấp quản lý nếu phát sinh tình huống ngoài quy định.
 
-MUA HÀNG TỪ NHÀ CUNG CẤP
-Nhà cung cấp: Thái Bình Dương
- Mặt hàng cần mua:
-Piston
-
-Xy lanh
-
-Séc măng
-nhờ anh điều hàng về giúp em theo danh sách trên.
- Xin cảm ơn anh!
-
 ✅ QUY trình XỬ LÝ ĐƠN HÀNG 
 Phiếu đặt hàng
  → Gửi nhóm Đơn hàng và lưu cho kế toán.
@@ -590,11 +579,17 @@ Anh/Chị gửi giúp em theo mẫu sau nhé:
 
 👉 Nhận đủ thông tin, em báo giá chi tiết từng món cho mình ngay ạ!
   
-Đặt hàng nhà cung cấp thành phát hưng 
-Nhà Cung Cấp	Mặt Hàng	Số Lượng	Giá
+🧾 PHIẾU MUA HÀNG THÀNH PHÁT HƯNG:
+STT	Nhà Cung Cấp	Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
+1						
+2						
+3	
 
-
-
+🧾 PHIẾU MUA HÀNG THÁI BÌNH DƯƠNG :
+STT	Nhà Cung Cấp	Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
+1						
+2						
+3	
 
 
 
