@@ -38,7 +38,7 @@ BẢO HÀNH TRỤC CƠ THÉP ĐÚC
 Cam kết chất lượng – Động cơ vận hành mạnh mẽ & ổn định!��
 �� LUÂN NGUYỄN – Chất lượng tạo nên uy tín! ��
 
-BẢO HÀNHTRỤC CƠTHÉP DẬP ( THÉP RÈN )
+BẢO HÀNH TRỤC CƠ THÉP DẬP ( THÉP RÈN )
 �� TRỤC CƠ – CÔNG NGHỆ  THÉP DẬP, CHẤT LƯỢ NG HÀNG ĐẦU ��
 �� Sản phẩm sản xuất thép công nghệ cao 
 ⚙Gia công chính xác 
@@ -655,6 +655,44 @@ Gioăng NICE đổi sang Masako do hết hàng
 
 
 Hàng đã được khách xác nhận đồng ý thay thế và đồng giá
+
+PHIẾU NHẬP HÀNG TRẢ LẠI NỘI BỘ:
+STT
+Tên hàng hóa
+Số lượng
+Ghi chú
+1
+
+
+
+
+
+
+2
+
+
+
+
+
+
+3
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+Người yêu cầu: Luân
+Ngày: ____ / ____ / ______
 
 
 
