@@ -600,6 +600,64 @@ Nếu khách thay đổi/thêm bớt hàng nhiều lần trong ngày, cần xác
 
 Có thể đặt hàng qua Zalo để Kho chuẩn bị, không gửi phiếu giấy khi khách chưa chốt (hoặc nếu có thể in phiếu tại chỗ, thì không cần gửi Kho).
 
+🔁 HƯỚNG DẪN SỬA PHIẾU XUẤT KHI THAY ĐỔI HÀNG HÓA:
+Khi khách đã chọn một bộ hàng gồm nhiều chi tiết liên quan, ví dụ:
+Bộ hơi + Bộ gioăng NICE + Bộ bạc miểng Taiho
+Nhưng sau đó phát sinh thay đổi như:
+Thay miểng Taiho → miểng NDC
+
+
+Thay gioăng NICE → gioăng Masako
+
+
+👉 Thì cần làm gì?
+✅ Sửa trực tiếp trên Phiếu Xuất – cập nhật tên và thông tin hàng hóa mới, thay cho các chi tiết cũ.
+📌 Lưu ý khi sửa:
+Ghi rõ tên thương hiệu mới được thay thế.
+
+
+Kiểm tra lại số lượng và đơn giá cho khớp.
+
+
+Nếu có thay đổi tổng tiền hoặc VAT → phải cập nhật luôn.
+
+
+
+💡 Mục đích: Đảm bảo chứng từ khớp thực tế hàng giao – tránh nhầm lẫn, dễ theo dõi sổ sách, và thuận lợi khi bảo hành!
+VD: 
+STT
+Tên Hàng Hóa
+Số lượng
+Đơn giá (VNĐ)
+Thành tiền (VNĐ)
+1
+Bộ hơi 1DZ
+01 bộ
+6,500,000
+6,500,000
+2
+Gioăng đại NICE
+01 bộ
+850,000
+850,000
+3
+Bạc miểng Taiho (đã thay: NDC)
+01 bộ
+950,000
+950,000
+
+
+📝 GHI CHÚ THAY ĐỔI:
+Bạc miểng Taiho đổi sang NDC theo yêu cầu khách hàng
+
+
+Gioăng NICE đổi sang Masako do hết hàng
+
+
+Hàng đã được khách xác nhận đồng ý thay thế và đồng giá
+
+
+
 
 
 
