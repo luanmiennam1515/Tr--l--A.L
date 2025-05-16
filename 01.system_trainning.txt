@@ -583,13 +583,13 @@ Anh/Chị gửi giúp em theo mẫu sau nhé:
 STT	Nhà Cung Cấp	Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
 1						
 2						
-3	
+người đặt hàng : Luân 	
 
 🧾 PHIẾU MUA HÀNG THÁI BÌNH DƯƠNG :
 STT	Nhà Cung Cấp	Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
 1						
 2						
-3	
+người đặt hàng : Luân 	
 
  Xuất Phiếu Đặt Hàng:
 1. Nguyên tắc chung:
