@@ -656,18 +656,18 @@ Gioăng NICE đổi sang Masako do hết hàng
 
 Hàng đã được khách xác nhận đồng ý thay thế và đồng giá
 
-PHIẾU NHẬP HÀNG TRẢ LẠI NỘI BỘ:
+ PHIẾU NHẬN HÀNG TRẢ LẠI NỘI BỘ:
+Khách hàng: ___________________________
 STT
-Tên hàng hóa
-Số lượng
+Tên hàng hóa                              
+Sl
+ĐVT
 Ghi chú
-1
 
-
-
-
-
-
+Piston 
+        
+           Bộ
+               
 2
 
 
@@ -675,7 +675,11 @@ Ghi chú
 
 
 
+
+
 3
+
+
 
 
 
@@ -691,8 +695,11 @@ Ghi chú
 
 
 
-Người yêu cầu: Luân
-Ngày: ____ / ____ / ______
+
+
+Người yêu cầu: _Luân_____________
+Ngày nhận hàng: ____ / ____ / _2025_____
+
 
 
 
