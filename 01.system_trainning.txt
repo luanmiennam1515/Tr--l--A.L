@@ -29,14 +29,7 @@ HỖ TRỢ KHI GẶP SỰ CỐ TRONG THỜI GIAN BẢO HÀNH��
 ✔️ �� Đối với cửa hàng mua từ 2 turbo trở lên , hỗ trợ thời gian 6 tháng kể từ ngày mua hàng
 �� LUÂN NGUYỄN – Chất lượng tạo nên uy tín! ��
  
-BẢO HÀNH TRỤC CƠ THÉP ĐÚC 
-�� CHẤT LƯỢNG HOÀN HẢO – VẬN HÀNH CHÍNH XÁC ��
-✅ Sản phẩm được đúc từ thép chất lượng cao ,
-✅ **Bề mặt được xử lý Bề mặt được xử lý ở độ cứng tiêu chuẩn ,
-✅ **Kiểm tra cân bằng trước khi xuất xưởng ,
-�� BẢO HÀNH: **06 tháng (*Áp dụng với trường hợp trục , ngoại trừ nguyên nhân bó máy )
-Cam kết chất lượng – Động cơ vận hành mạnh mẽ & ổn định!��
-�� LUÂN NGUYỄN – Chất lượng tạo nên uy tín! ��
+
 
 BẢO HÀNH TRỤC CƠ THÉP DẬP ( THÉP RÈN )
 �� TRỤC CƠ – CÔNG NGHỆ  THÉP DẬP, CHẤT LƯỢ NG HÀNG ĐẦU ��
@@ -656,7 +649,7 @@ Gioăng NICE đổi sang Masako do hết hàng
 
 Hàng đã được khách xác nhận đồng ý thay thế và đồng giá
 
- PHIẾU NHẬN HÀNG TRẢ LẠI NỘI BỘ:
+ PHIẾU NHẬP HÀNG BÁN BỊ TRẢ LẠI :
 Khách hàng: ___________________________
 STT
 Tên hàng hóa                              
@@ -698,33 +691,6 @@ Ghi chú
 
 Người yêu cầu: _Luân_____________
 Ngày nhận hàng: ____ / ____ / _2025_____
-
-PHIẾU ĐẶT HÀNG:
-Ngày: ____ tháng ____ năm 2025
-Khách hàng: ___________________
-SĐT: ___________________
-Địa chỉ: ___________________
-Tên sản phẩm
-ĐVT
-Số lượng
-Đơn giá (VNĐ)
-Thành tiền (VNĐ)
-
-
-Cái
-4
-______________
-________________
-
-
-Máy
-________
-______________
-________________
-
-Tổng cộng: ________________________
-Thanh toán: ________________________
-Ghi chú: ____________________________
 
 
 
