@@ -692,6 +692,48 @@ Ghi chú
 Người yêu cầu: _Luân_____________
 Ngày nhận hàng: ____ / ____ / _2025_____
 
+PHIẾU ĐẶT HÀNG
+Khách hàng: _______________________________________
+
+
+Số điện thoại: ______________________________________
+
+
+
+THÔNG TIN ĐẶT HÀNG:
+STT
+TÊN SẢN PHẨM
+ĐVT
+SỐ LƯỢNG
+ĐƠN GIÁ
+THÀNH TIỀN
+1
+
+
+
+
+
+
+
+
+
+
+
+
+TỔNG TIỀN: _____________________________________
+
+ĐIỀU KIỆN KHÁC:
+Giá trên chưa bao gồm VAT
+
+
+Giá trên chỉ áp dụng trong 03 ngày kể từ ngày lập báo
+
+
+Khách hàng lấy hóa đơn GTGT sẽ được chiết khấu 3% trên tiền hàng
+
+
+CSKH: Luân Miền Nam
+
 
 
 
