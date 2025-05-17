@@ -573,13 +573,14 @@ Anh/Chị gửi giúp em theo mẫu sau nhé:
 👉 Nhận đủ thông tin, em báo giá chi tiết từng món cho mình ngay ạ!
   
 🧾 PHIẾU MUA HÀNG THÀNH PHÁT HƯNG:
-STT	Nhà Cung Cấp	Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
+STT		Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
 1						
 2						
 người đặt hàng : Luân 	
 
+
 🧾 PHIẾU MUA HÀNG THÁI BÌNH DƯƠNG :
-STT	Nhà Cung Cấp	Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
+STT		Mã Hàng	Thương Hiệu	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
 1						
 2						
 người đặt hàng : Luân 	
@@ -692,7 +693,8 @@ Ghi chú
 Người yêu cầu: _Luân_____________
 Ngày nhận hàng: ____ / ____ / _2025_____
 
-PHIẾU ĐẶT HÀNG
+
+PHIẾU ĐẶT HÀNG:
 Khách hàng: _______________________________________
 
 
