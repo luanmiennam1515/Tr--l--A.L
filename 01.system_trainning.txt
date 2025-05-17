@@ -702,37 +702,32 @@ Số điện thoại: ______________________________________
 
 
 
-THÔNG TIN ĐẶT HÀNG:
-STT
-TÊN SẢN PHẨM
-ĐVT
-SỐ LƯỢNG
-ĐƠN GIÁ
-THÀNH TIỀN
-1
+PHIẾU XUẤT HÀNG 
+Ngày báo giá: [//2025]
 
+Thông tin khách hàng:
 
+Tên khách hàng: [Tên khách hàng]
 
+Địa chỉ: [Địa chỉ khách hàng]
 
+SĐT: [Số điện thoại nếu cần]
 
+STT	TÊN SẢN PHẨM	ĐVT	SỐ LƯỢNG	ĐƠN GIÁ (VNĐ)	THÀNH TIỀN (VNĐ)
+1					
+2					
+					
+					
+					
 
-
-
-
-
-
-
-TỔNG TIỀN: _____________________________________
+👉 TỔNG TIỀN: ___________________________________________
 
 ĐIỀU KIỆN KHÁC:
-Giá trên chưa bao gồm VAT
+Giá trên chưa bao gồm VAT.
 
+Giá chỉ áp dụng trong 03 ngày kể từ ngày lập báo giá.
 
-Giá trên chỉ áp dụng trong 03 ngày kể từ ngày lập báo
-
-
-Khách hàng lấy hóa đơn GTGT sẽ được chiết khấu 3% trên tiền hàng
-
+Khách hàng lấy hóa đơn GTGT sẽ được chiết khấu 3% trên tiền hàng.
 
 CSKH: Luân Miền Nam
 
