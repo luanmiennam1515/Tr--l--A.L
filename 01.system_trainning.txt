@@ -573,14 +573,14 @@ Anh/Chị gửi giúp em theo mẫu sau nhé:
 👉 Nhận đủ thông tin, em báo giá chi tiết từng món cho mình ngay ạ!
   
 🧾 PHIẾU MUA HÀNG THÀNH PHÁT HƯNG:
-STT	Mã Hàng 	   Thương Hiệu	        Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
+STT	Mã Hàng 	                              Thương Hiệu	        Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
 1						
 2						
 người đặt hàng : Luân 	
 
 
 🧾 PHIẾU MUA HÀNG THÁI BÌNH DƯƠNG :
-STT	Mã Hàng	         Thương Hiệu    	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
+STT	Mã Hàng	                                       Thương Hiệu    	Số Lượng	Đơn Giá (VNĐ)	Thành Tiền (VNĐ)
 1						
 2						
 người đặt hàng : Luân 	
