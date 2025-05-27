@@ -732,6 +732,18 @@ Giá chỉ áp dụng trong 03 ngày kể từ ngày lập báo giá.
 Khách hàng lấy hóa đơn GTGT sẽ được chiết khấu 3% trên tiền hàng.
 
 CSKH: Luân Miền Nam
+chính sach hóa đơn vat:
+🔧 1. Trường hợp khách lấy VAT đúng bằng doanh số đã mua
+👉 Ví dụ: Khách mua 50 triệu tiền hàng trong tháng 4.
+=> Được xuất hóa đơn VAT tối đa 50 triệu, với mức phí VAT 6%.
+✅ Lấy hàng gì cũng được, miễn không vượt quá 50 triệu.
+
+🔧 2. Trường hợp khách lấy VAT nhiều hơn số tiền đã mua
+👉 Ví dụ: Khách mua 50 triệu, nhưng muốn lấy hóa đơn 70 triệu.
+Cách tính thuế như sau:
+
+Phần VAT trong hạn mức 50 triệu → tính 6%
+
 
 
 
