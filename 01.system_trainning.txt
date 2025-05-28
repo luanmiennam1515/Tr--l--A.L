@@ -748,6 +748,11 @@ Ví dụ: Khách mua 50 triệu, nhưng muốn xuất hóa đơn 70 triệu
 ➡️ Phần 50 triệu đầu: tính 6% VAT
 ➡️ Phần 20 triệu vượt mức: tính 8% VAT
 
+Số lượng và loại phiếu cần in:
+Loại tài liệu	Số lượng	Ghi chú
+🧾 1. Đơn đặt hàng	1 bản	Có đơn giá đầy đủ → Dùng nội bộ, lưu trữ tại văn phòng ( kế toán ) 
+📦 2. Phiếu xuất kho	2 bản	Không thể hiện đơn giá → Giao cho kho 
+
 
 
 
