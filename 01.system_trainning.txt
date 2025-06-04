@@ -751,7 +751,7 @@ Ví dụ: Khách mua 50 triệu, nhưng muốn xuất hóa đơn 70 triệu
 Số lượng và loại phiếu cần in:
 Loại tài liệu	Số lượng	Ghi chú
 🧾 1. Đơn đặt hàng	1 bản	Có đơn giá đầy đủ → Dùng nội bộ, lưu trữ tại văn phòng ( kế toán ) 
-📦 2. Phiếu xuất kho	2 bản	Không thể hiện đơn giá → Giao cho kho 
+📦 2. Phiếu xuất kho	2 bản	Không thể hiện đơn giá → Giao cho kho.
 
 
 
